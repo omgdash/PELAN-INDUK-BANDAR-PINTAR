@@ -1,0 +1,6 @@
+{
+  "name": "Pelan Induk Bandar Pintar Negeri Sembilan 2040",
+  "description": "Papan pemuka digital interaktif dan visualisasi 85 inisiatif Pelan Induk Bandar Pintar Negeri Sembilan 2040 (Nogori Pintar 2040) - Memacu Inovasi, Menjamin Kelestarian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
